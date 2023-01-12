@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1165" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1307" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date,footer{font-size:10px;color:#666}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date,footer{font-size:10px;color:#666}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    0 added, 0 removed
+                                    3.18k added, 21 removed
                                 </div>
                             </section>
                             <section>
@@ -305,7 +305,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 8 commits)</small>
+                    <small class="h-details">(computed from last 9 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -331,11 +331,35 @@
                             </svg>
                             From YouTube Music
                         </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h6.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0114.25 13H8.06l-2.573 2.573A1.457 1.457 0 013 14.543V13H1.75A1.75 1.75 0 010 11.25v-9.5zM9 9a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
-                            </svg>
-                            No music recently listened
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGwAAAwEBAAMAAAAAAAAAAAAAAwQFAgEABgf/xAAyEAACAQMDAQYDBwUAAAAAAAABAgMAERIEISIxBRMyQVFhcYGRFBViocHR8DNSkrHh/8QAGgEAAgMBAQAAAAAAAAAAAAAAAQMAAgQFB//EACURAAICAQQBAwUAAAAAAAAAAAECAAMRBBIhQTETIlGRscHR8P/aAAwDAQACEQMRAD8A+LJAi4sjtxAosSAZe9AVlDL7/SqUMYdefiP0rksceZ6BSgY8SfHEKMIRlTbacr8q3JiFXDyFqG+NXT4HMRaIq3Db9aA0YDfCqCcm/CK7Lp8vBUDYgajcMiTsOP8ANqOkIxrrQkfOt7iiTmUVADyJnTxK2PL9jVnsjTJPqe6dWxEbvdb7FVJBNgdrix2869T0kk0bMvLEcj5kVe7LZNZ3qzK2UMLzC1tyouOtRkOYKL1KHoyv91SytqsEmFsvswwJMjKMiOnXAe27D4UhqdG0ekadAzKIEmEhPEklQVFhvYnEi4NxfptTQ0kY7Llnyk74u0YjFhcKqtsMfK9+o2BNY7V7P+yTyqgaeSNo1MowxcupIsLX38jv70B8YjXPuzu/hgfr699FXsrHtttNhP3AyxJ8RtHl6b72vt5+tZfSl4tZgrI0IJXK4DAKSTe2xsFIBAuCR1tSzaWKFp8GWXTJphqFKqpL8ghF+mzE+uy0SCCCXRTz4yD7Pge7OIurjY9P7rfEEEb0WGD4lKXyvD9AeO8/ngSdIrVkr7fnTcirj6bUi7cvFVBzNFihfMkiWTJW48SGNj1tuBViPtJx+BsLMF2yHpUdrtlh4a0+XdNgvIgf9p5UHE5VVrVg4Mv6btRuWHeYm5YZHqep/egT9oS9xjnIig8FyPEjpt5VH0jSwNll1JP6U3Ozuvit6i9hVNgBmpdSz14P2ndFrJImZu9bJb48jxv1t6dadXtLxZsxZ7ZbnkR0v69ajoDl8TXhW7NRKgxVd7oOJX+8YceeWV+lr/nSM83eSFkVQD6ml7Bvb/VOwRwmIZkFvPcUNoWM9Wy72kyEmo/yPlR45Wk4vs238/KpIZguxt0pqOVwqMDvetJWcOu89yyzWVeXv86G85EbZt1t7Um7HJ/a9qFDI0ijM3v1pYSbG1BzgQy6hsvw3pqBivz3+tTx/XPpttRJHOX0qxWLrtI5Mclkthy9/nXHYFvBf4mkHY5fSgtNIT4iPhU2SNqfmf/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Hotel California</div>
+                                    <div class="artist">Eagles</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Stayin Alive</div>
+                                    <div class="artist">Bee Gees</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Time After Time</div>
+                                    <div class="artist">Cyndi Lauper</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Livin' on a Prayer</div>
+                                    <div class="artist">Bon Jovi</div>
+                                </div>
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -354,6 +378,24 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Sometimes it is a kernel bug: bind() in Linux 6.0.16</div>
+                                <div class="date">12 Jan 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Intel Preparing New Linux “PerfMon” Performance Monitoring Support for Iommu</div>
+                                <div class="date">12 Jan 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">What's what with Wolfi, the Linux “undistribution,” and ARM</div>
                                 <div class="date">12 Jan 2023</div>
                             </div>
@@ -364,24 +406,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Sometimes it actually is a kernel bug: bind() in Linux 6.0.16</div>
-                                <div class="date">12 Jan 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Arch Linux – Installation Guide</div>
-                                <div class="date">12 Jan 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Git: A Generative Image-to-Text Transformer for Vision and Language</div>
                                 <div class="date">12 Jan 2023</div>
                             </div>
                         </div>
@@ -1466,7 +1490,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jan 2023, 20:05:49 (timezone Europe/Brussels) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 13 Jan 2023, 00:10:03 (timezone Europe/Brussels) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
