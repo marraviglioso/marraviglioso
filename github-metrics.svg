@@ -373,8 +373,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Including screenshots to Git commit messages to show visual changes of features</div>
-                                <div class="date">11 Feb 2023</div>
+                                <div class="title">Learning about Linux fwmark masks</div>
+                                <div class="date">12 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -382,8 +382,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gentoo Linux, LLVM/Clang is now the primary system compiler</div>
-                                <div class="date">11 Feb 2023</div>
+                                <div class="title">How to create portable Linux binaries</div>
+                                <div class="date">12 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -391,8 +391,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gentoo Linux 2022 Retrospective</div>
-                                <div class="date">11 Feb 2023</div>
+                                <div class="title">Git-Repo: Man in the Middle Proxy in Rust</div>
+                                <div class="date">12 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -400,8 +400,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: Is there a need for non-Git dvcs hosting?</div>
-                                <div class="date">10 Feb 2023</div>
+                                <div class="title">StarFighter 16 inch: 4K Coreboot/Ryzen Linux laptop</div>
+                                <div class="date">12 Feb 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1446,13 +1446,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Feb 2023, 00:08:27 (timezone Europe/Brussels) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 13 Feb 2023, 00:08:29 (timezone Europe/Brussels) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
