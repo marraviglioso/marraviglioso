@@ -373,8 +373,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tell HN: macOS is degrading fast, and GNU/Linux is now better for most uses</div>
-                                <div class="date">24 Feb 2023</div>
+                                <div class="title">Linux Now Officially Supports Apple Silicon</div>
+                                <div class="date">25 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -382,8 +382,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: CloudNative Linux – A shell experience for the cloud</div>
-                                <div class="date">24 Feb 2023</div>
+                                <div class="title">Ask HN: 2023 Year of Linux on Phones?</div>
+                                <div class="date">25 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -391,8 +391,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Working with stacked branches in Git is easier with –update-refs</div>
-                                <div class="date">24 Feb 2023</div>
+                                <div class="title">SSDFS Is The Newest Linux Filesystem &amp; Catering To NVMe ZNS SSDs</div>
+                                <div class="date">25 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -400,8 +400,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to back up a Windows Subsystem for Linux (WSL) distribution</div>
-                                <div class="date">24 Feb 2023</div>
+                                <div class="title">Ssdfs: Flash-friendly log-structured Linux fs for Zoned-Namespace SSDs</div>
+                                <div class="date">25 Feb 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1441,13 +1441,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Feb 2023, 00:09:00 (timezone Europe/Brussels) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 26 Feb 2023, 00:08:41 (timezone Europe/Brussels) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
