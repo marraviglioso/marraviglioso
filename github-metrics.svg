@@ -373,8 +373,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux in 2023: my speaker is buzzing</div>
-                                <div class="date">26 Feb 2023</div>
+                                <div class="title">Linux-factory: A framework used to create custom Linux Debian operating systems</div>
+                                <div class="date">27 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -382,8 +382,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FreeBSD 13.2 Beta 3 Brings Support for More 4G Modems, Linux KPI Updates</div>
-                                <div class="date">26 Feb 2023</div>
+                                <div class="title">Linux Kernel: Why the “volatile” type class should not be used</div>
+                                <div class="date">27 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -391,8 +391,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux 6.2 and Apple Silicon clarification</div>
-                                <div class="date">26 Feb 2023</div>
+                                <div class="title">Linux 6.2 is not the first kernel to support the M1</div>
+                                <div class="date">27 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -400,8 +400,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Who writes Linux and open source software?</div>
-                                <div class="date">26 Feb 2023</div>
+                                <div class="title">Ask HN: What Git branching strategy do you use in 2023, and why?</div>
+                                <div class="date">27 Feb 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1452,12 +1452,19 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Feb 2023, 00:08:45 (timezone Europe/Brussels) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 28 Feb 2023, 00:09:30 (timezone Europe/Brussels) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
