@@ -373,8 +373,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Making of Linux [video]</div>
-                                <div class="date">4 Mar 2023</div>
+                                <div class="title">Testing the First PCIe Gen 5.0 NVMe SSD on Linux Has Been Disappointing</div>
+                                <div class="date">5 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -382,8 +382,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Handy Git Customizations</div>
-                                <div class="date">4 Mar 2023</div>
+                                <div class="title">Linux Tablet and Mini PC, Godot 4, and More – FOSS Weekly</div>
+                                <div class="date">5 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -391,8 +391,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How I set up new computers with Slackware Linux</div>
-                                <div class="date">4 Mar 2023</div>
+                                <div class="title">Theodore Ts'o on how he uses Git when working on Linux (2017)</div>
+                                <div class="date">5 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -400,8 +400,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Getting started with C++ MathGL on Windows and Linux (2020)</div>
-                                <div class="date">4 Mar 2023</div>
+                                <div class="title">DIY Linux Kernel Rootkit Detection</div>
+                                <div class="date">5 Mar 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1446,13 +1446,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Mar 2023, 00:08:27 (timezone Europe/Brussels) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 6 Mar 2023, 00:08:29 (timezone Europe/Brussels) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
