@@ -31,8 +31,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -376,8 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux Syscall Support: Low level C API for making direct Linux syscalls</div>
-                                <div class="date">15 Apr 2023</div>
+                                <div class="title">Ask HN: Could somebody use GPT make Git super easy to use?</div>
+                                <div class="date">16 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -385,8 +385,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The GNU project nearly adopted the BSD kernel in 1991, before Linux was created</div>
-                                <div class="date">15 Apr 2023</div>
+                                <div class="title">Linux News #3 First Intervirw with Linus( 1992)</div>
+                                <div class="date">16 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -394,8 +394,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Searchable Linux Syscall Table for x86 and x86_64</div>
-                                <div class="date">14 Apr 2023</div>
+                                <div class="title">Linux kernel logic allowed Spectre attack on 'major cloud provider'</div>
+                                <div class="date">16 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -403,8 +403,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tuple Pair programming Linux client Beta</div>
-                                <div class="date">14 Apr 2023</div>
+                                <div class="title">Git-recon: tool for reconciling your local Git repositories</div>
+                                <div class="date">16 Apr 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1449,13 +1449,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Apr 2023, 01:07:42 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Apr 2023, 01:08:00 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
