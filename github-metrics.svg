@@ -373,8 +373,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Two New Linux Laptops, Sudo in Rust, Debian 12.0 – FOSS Weekly</div>
-                                <div class="date">30 Apr 2023</div>
+                                <div class="title">Under Linux, libSegFault and addr2line are underrated</div>
+                                <div class="date">1 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -382,8 +382,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AMD Iommu with Linux 6.4 Supports 5-Level Guest Page Tables</div>
-                                <div class="date">30 Apr 2023</div>
+                                <div class="title">Rescatux: Get back to your GNU/Linux and Windows computers</div>
+                                <div class="date">1 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -391,8 +391,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">UserLAnd: Use Linux Anywhere</div>
-                                <div class="date">30 Apr 2023</div>
+                                <div class="title">Linux HDR hackfest wrap-up</div>
+                                <div class="date">1 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -400,8 +400,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Does the Steam Deck Run Linux? Blame Windows</div>
-                                <div class="date">30 Apr 2023</div>
+                                <div class="title">Enabling IPv6 support for IPv4 only apps on Linux</div>
+                                <div class="date">1 May 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1452,12 +1452,19 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 May 2023, 01:08:03 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 May 2023, 01:08:12 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
