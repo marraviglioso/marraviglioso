@@ -373,8 +373,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Planck is a stand-alone ClojureScript REPL for macOS and Linux</div>
-                                <div class="date">30 May 2023</div>
+                                <div class="title">macOS Like Fonts on Manjaro/Arch Linux</div>
+                                <div class="date">31 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -382,8 +382,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Webvm.io – Linux in the browser. Fork on GitHub to make your own</div>
-                                <div class="date">30 May 2023</div>
+                                <div class="title">Ubuntu Core as an immutable Linux Desktop base</div>
+                                <div class="date">31 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -391,8 +391,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux 6.3.5 Released with XFS Metadata Corruption Fix</div>
-                                <div class="date">30 May 2023</div>
+                                <div class="title">Ubuntu Details Initial Plans for Immutable Linux Desktop Ubuntu Core and Snaps</div>
+                                <div class="date">31 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -400,8 +400,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GobRAT Malware Written in Go Language Targeting Linux Routers</div>
-                                <div class="date">30 May 2023</div>
+                                <div class="title">Live Tracing of Linux Kernel Code</div>
+                                <div class="date">31 May 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1463,13 +1463,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 May 2023, 01:08:05 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Jun 2023, 01:08:03 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
