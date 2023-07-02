@@ -373,8 +373,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sigma File Manager: free, open-source, modern file manager for Windows and Linux</div>
-                                <div class="date">1 Jul 2023</div>
+                                <div class="title">State of the Embedded Linux Ecosystem</div>
+                                <div class="date">2 Jul 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -382,8 +382,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Qualcomm Adreno 700 Series GPU Support Published for Open-Source Linux Driver</div>
-                                <div class="date">1 Jul 2023</div>
+                                <div class="title">Linux(+ChomeOS) Is Now 7% of the Desktop Operating System Market Share Worldwide</div>
+                                <div class="date">2 Jul 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -391,8 +391,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple Studio Display Linux Driver Published to Control the Backlight</div>
-                                <div class="date">1 Jul 2023</div>
+                                <div class="title">Ask HN: Linux Wayland Screenshot App – where to start?</div>
+                                <div class="date">2 Jul 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -400,8 +400,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux 6.5 Adds CXL Device Sanitization Secure Erase, CXL 3.0 Performance Monitor</div>
-                                <div class="date">1 Jul 2023</div>
+                                <div class="title">AMD CPU Use Among Linux Gamers Approaching 70% Marketshare</div>
+                                <div class="date">2 Jul 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1440,13 +1440,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jul 2023, 01:08:36 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Jul 2023, 01:08:18 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
