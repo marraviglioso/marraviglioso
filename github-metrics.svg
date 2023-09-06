@@ -373,8 +373,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Digilogtv: Free and open-source TV news app, inspired by Linux Mint's Hypnotix</div>
-                                <div class="date">5 Sept 2023</div>
+                                <div class="title">Linus Torvalds Comments on Bcachefs Prospects for Linux 6.6</div>
+                                <div class="date">7 Sept 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -382,8 +382,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Manjaro Linux 23.0 Uranos Released</div>
-                                <div class="date">5 Sept 2023</div>
+                                <div class="title">Benchmarking BSD and Linux (2003)</div>
+                                <div class="date">6 Sept 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -391,8 +391,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Some AMD CPUs to Benefit from New Micro-Optimization in Linux 6.6</div>
-                                <div class="date">5 Sept 2023</div>
+                                <div class="title">Hyperbola releases final GNU/Linux-libre before transition to HyperbolaBSD</div>
+                                <div class="date">6 Sept 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -400,8 +400,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A tool for checking the security hardening options of the Linux kernel</div>
-                                <div class="date">5 Sept 2023</div>
+                                <div class="title">Greg Kroah-Hartman on Formatting [Git Pull] Emails to Linus Torvalds</div>
+                                <div class="date">6 Sept 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1457,13 +1457,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Sept 2023, 01:07:52 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Sept 2023, 01:08:18 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
