@@ -373,8 +373,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux Foundation Launches OpenTofu: A New Open Source Alternative to Terraform</div>
-                                <div class="date">24 Sept 2023</div>
+                                <div class="title">Caine – computer forensic tools for Linux and Windows</div>
+                                <div class="date">25 Sept 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -382,8 +382,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Friture – a FOSS real-time audio analyzer for Windows, macOS, and Linux</div>
-                                <div class="date">24 Sept 2023</div>
+                                <div class="title">Linux Tablet and MiniPC, Kernel LTS Down to 2 Years, Gnome 45 – FOSS Weekly</div>
+                                <div class="date">25 Sept 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -391,8 +391,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AMD Prepares PMF Linux Driver for “Smart PC Solutions Builder”</div>
-                                <div class="date">24 Sept 2023</div>
+                                <div class="title">Linux from Scratch Version 12.0</div>
+                                <div class="date">25 Sept 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -400,8 +400,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Modern Linux Tools vs. Unix Classics: Which Would I Choose?</div>
-                                <div class="date">24 Sept 2023</div>
+                                <div class="title">Show HN: DitchTheBell – Linux-based desktop notifier for RSS/Atom feeds</div>
+                                <div class="date">25 Sept 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1446,12 +1446,19 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Sept 2023, 01:07:40 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2023, 01:08:23 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
