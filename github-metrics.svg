@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1195" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1031" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date,footer{font-size:10px;color:#666}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.introduction{white-space:normal;margin:0 13px 2px}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date,footer{font-size:10px;color:#666}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -316,45 +316,14 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                     </svg>
-                    Recently played
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field">
+                        <div class="field error">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
+                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                             </svg>
-                            From YouTube Music
-                        </div>
-                        <div class="tracklist">
-                            <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">(I Just) Died In Your Arms</div>
-                                    <div class="artist">Cutting Crew</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABwACAwQGBQEI/8QAOxAAAgECBAQDBgMECwAAAAAAAQIDBBEABRIhBhMxQQciURQyYXGRsSMzgRai0fA0QlJicoKUodLh8f/EABkBAAIDAQAAAAAAAAAAAAAAAAAEAQIDBf/EACERAAICAQUAAwEAAAAAAAAAAAABAhEhAwQSEzEjMkFx/9oADAMBAAIRAxEAPwD51NW+/wCFS/6aPbe+2389MN9obXqMUG6aPyUtb1tawO/XriE4lpYefOkYJ81+m+w3P2wFBxqm1huTS7MWt7OlulrWtuP/AHrvieijqqwTTUkFLI0WiLl8lTzHdiFRVtux8x+SHfYY3HDvBGVVEEFVX1VeztKsBh9lIiSRvd1PfzC1jYWve1x1wQuH8lo61ZUy7O1y5p3RA0ixc3lqgREUA2UdTsB12sd8VU4vNk8WgV5vwwuVXlrKuiptmd0mhRpHRdKqY4gP6xufeGzAG5Uk5JKllSMcmm8nrAhvYdzbfpvf44OWbeC9NLUSS1XE1azNY+emVuwte7b7bYz3FvhDFknB+YZ9S56an2JQ5gkphHrUsAbEMbHf0+G2I7YXSYcZfqBaKlgWPKp97n8lNrknbbbrt+gxHNIZWBMca2AFo1CD6C1z8cMwsXIHYuZNOtLmdPOw1cslrWBubGw+tsU8Oh/MGIatAvQpVmdKaypmp4xTRTWeSMNsrFNLG/bcm327Yr+GWXZVxBxTPSZygaKVWaM62BWx3tb+7qse1htjNUwl9h5khZbi/wASf7W/f4/S3fdcJ5fkuX5ZS8RU8s3NjWRJkY3EcgW46dNQD+vUDfFd0oxilBVgttXJyb1HeTYZFxP+0EGW6nfm1A5YJAF1VgoYj5AbfPHe8VIVo/CbiKnWoD6oQ28ZB99e98Q5LFBU8JyZjyEgqDUoKKMabRkm7BTta6g37fTFDxPad/DfO2mLbU47g38464QTqSQ1KKptHzHhYWFjpCY7Fig5QqFactpB91Rcn+f4fMVsPg/NG3r9sF1kGrwbROU81IQ2qVpV8tyRYkd++17bfHpYY23FjUc+W5vFRIkbUwjadEGncWcDb4At/lPrgY5G1s4oSWK2mQW7e8P+saGizpRxRnUNVFzKfMmekc69PLFmRW6HoD98L7iT1NXmMaEevS6/cnb8Nc+rv2gosvnqJWy3WVNNqbli9r2Hrsf98bDxFWWLw+z+CSWRuUhjOpr9HH8MDHLMzWiz10Kx6lqxIkiNcGz2AHa2kn6DBA8SZuZkPFbCV9DF1CHofxB0H6YXkvkT/hu/pSADhYWFjoCB7bElOPxR8j9sMw+nNp12GIYL06NCrNWQBA2oOCNPUWN7jFnNBqzivZfKntEhFv8AG1sRUtVypg8cMaupurBnuP3sTLOl/wCjxdu7f8sYv0YVVRFBI1NPHIdTaCHtf03F8FrxG5U3Dudz0riRHjEmxBFmZT29CSP0wOaCSJ2Aalhb5lt/3sdfPM4lpuCq+jhggWKTRESQzMFL7gEnbGU1cos2i1GDTBzhY99Me4cET//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Maniac</div>
-                                    <div class="artist">Michael Sembello</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Stayin Alive</div>
-                                    <div class="artist">Bee Gees</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Time After Time</div>
-                                    <div class="artist">Cyndi Lauper</div>
-                                </div>
-                            </div>
+                            API error: 401
                         </div>
                     </section>
                 </div>
@@ -373,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ubuntu Core Linux Developer Preview is ready for testing</div>
-                                <div class="date">13 Nov 2023</div>
+                                <div class="title">Handling Secrets in NixOS: An Overview (git-crypt, agenix, sops-nix)</div>
+                                <div class="date">14 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -382,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux Plumbers Conference 2023</div>
-                                <div class="date">13 Nov 2023</div>
+                                <div class="title">A time traveling resource monitor for modern Linux systems</div>
+                                <div class="date">14 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -391,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux Foundation Creating the High Performance Software Foundation (HPSF)</div>
-                                <div class="date">13 Nov 2023</div>
+                                <div class="title">Ask HN: Linux from Scratch style project with modern twist?</div>
+                                <div class="date">14 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -400,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux Desktop Usability</div>
-                                <div class="date">13 Nov 2023</div>
+                                <div class="title">Patches Posted for Removing the Slab Allocator from the Linux Kernel</div>
+                                <div class="date">14 Nov 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1452,13 +1421,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Nov 2023, 00:08:34 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2023, 00:08:27 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
