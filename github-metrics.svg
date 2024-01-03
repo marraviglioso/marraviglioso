@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Advanced Git Commands You Will Use</div>
-                                <div class="date">2 Jan 2024</div>
+                                <div class="title">Show HN: Pam-Authramp – Advanced Brute Force Protection for Linux Users</div>
+                                <div class="date">3 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Better Git Conflicts with Zdiff3</div>
-                                <div class="date">2 Jan 2024</div>
+                                <div class="title">'Diagonal Mode' Linux Desktop</div>
+                                <div class="date">3 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Moving Git commits between repos (2017)</div>
-                                <div class="date">2 Jan 2024</div>
+                                <div class="title">Native VVC decoder merged into FFmpeg Git</div>
+                                <div class="date">3 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Git Branches Have No Rules</div>
-                                <div class="date">2 Jan 2024</div>
+                                <div class="title">Ask HN: Crazy AI/"CoPilot" challenge: have a GPT build an app on Git posts to HN</div>
+                                <div class="date">3 Jan 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1426,13 +1426,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jan 2024, 00:08:43 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 00:09:53 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
