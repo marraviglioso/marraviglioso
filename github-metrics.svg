@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Metahead – An enterprise-grade, Git-based metarepo</div>
-                                <div class="date">10 Jan 2024</div>
+                                <div class="title">Introducing Rust into the Git Project</div>
+                                <div class="date">11 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Conditional Git Configuration</div>
-                                <div class="date">10 Jan 2024</div>
+                                <div class="title">Six lesser-known but seriously useful Linux commands</div>
+                                <div class="date">11 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux devices are under attack by a never-before-seen worm</div>
-                                <div class="date">10 Jan 2024</div>
+                                <div class="title">Linux 6.8 Continues Work for Clearing the Sysctl Sentinel Bloat</div>
+                                <div class="date">11 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ayaneo NEXT LITE gaming handheld announced with SteamOS Linux</div>
-                                <div class="date">10 Jan 2024</div>
+                                <div class="title">Blockchain and Linux: Interview with Hyperledger's Daniela Barbosa</div>
+                                <div class="date">11 Jan 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1431,13 +1431,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jan 2024, 00:08:17 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2024, 00:09:01 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
