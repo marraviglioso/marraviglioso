@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux TTY font for Chinese, but treat it as a syllabic writing</div>
-                                <div class="date">13 Mar 2024</div>
+                                <div class="title">Automatic regression handling and reporting for the Linux Kernel</div>
+                                <div class="date">14 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Intel Continues Prepping the Linux Kernel for X86S</div>
-                                <div class="date">13 Mar 2024</div>
+                                <div class="title">Git by Example: Interactive Guide</div>
+                                <div class="date">14 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Implementing (parts of) Git from scratch in Rust</div>
-                                <div class="date">13 Mar 2024</div>
+                                <div class="title">Linux 4.14's long-term support will live on after all, thanks to this alliance</div>
+                                <div class="date">14 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Cloud Outgrows Linux, and Sparks a New Operating System</div>
-                                <div class="date">13 Mar 2024</div>
+                                <div class="title">OpenELA Announces Kernel-LTS Project in Support of Linux Kernel 4.14</div>
+                                <div class="date">14 Mar 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1431,13 +1431,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Mar 2024, 00:08:41 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Mar 2024, 00:08:20 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
