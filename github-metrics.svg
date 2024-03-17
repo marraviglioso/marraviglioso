@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Check whether a remote server port is open on Linux</div>
-                                <div class="date">16 Mar 2024</div>
+                                <div class="title">Many Laptop Improvements in Linux 6.9, Much Faster HP Performance at Higher TDP</div>
+                                <div class="date">17 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What can Avengers: Endgame teach us about Git?</div>
-                                <div class="date">16 Mar 2024</div>
+                                <div class="title">The AceMagic AM18 Linux Gaming Experience</div>
+                                <div class="date">17 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Overcoming the Iotlb Wall for Multi-100-Gbps Linux-Based Networking</div>
-                                <div class="date">16 Mar 2024</div>
+                                <div class="title">Thoughts on Linux CNA's Approach and the Resulting CVE Flood</div>
+                                <div class="date">17 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -370,7 +370,7 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Git by Example</div>
-                                <div class="date">16 Mar 2024</div>
+                                <div class="date">17 Mar 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1409,13 +1409,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Mar 2024, 00:08:53 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Mar 2024, 00:09:46 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
