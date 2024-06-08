@@ -342,7 +342,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">vinput: A collection of virtual input device drivers for the Linux kernel</div>
+                                <div class="title">Ask HN: Who Went Mac –&gt; Linux?</div>
                                 <div class="date">8 Jun 2024</div>
                             </div>
                         </div>
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ubuntu Linux Core 24 is a leap forward for IoT and edge computing</div>
-                                <div class="date">7 Jun 2024</div>
+                                <div class="title">BlendOS v4 released: Arch Linux, made immutable, declarative and atomic</div>
+                                <div class="date">8 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Updated Intel Meteor Lake Tuning for Linux Shows Performance/Power Improvements</div>
-                                <div class="date">7 Jun 2024</div>
+                                <div class="title">For the Love of Linux</div>
+                                <div class="date">8 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A generic ring buffer for the Linux kernel</div>
-                                <div class="date">7 Jun 2024</div>
+                                <div class="title">Enabling a USB Serial Console on Linux (2022)</div>
+                                <div class="date">8 Jun 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1404,13 +1404,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jun 2024, 01:10:37 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jun 2024, 01:09:44 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
