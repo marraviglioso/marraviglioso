@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Git commit signing is kinda wack</div>
-                                <div class="date">28 Jun 2024</div>
+                                <div class="title">Navigating the Stormy Waters of Git Merge Conflicts</div>
+                                <div class="date">30 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Canonical's 'distroless' Linux images are a game-changer for enterprises</div>
-                                <div class="date">28 Jun 2024</div>
+                                <div class="title">CVE-2021-4440: A Linux CNA Case Study</div>
+                                <div class="date">29 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Daniel Bristot, Linux kernel dev, passed away</div>
-                                <div class="date">28 Jun 2024</div>
+                                <div class="title">CachyOS - fast Arch Linux distro with custom schedulers</div>
+                                <div class="date">29 Jun 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Simplest Way to Control Nvidia GPU Fan Speed in Linux</div>
-                                <div class="date">28 Jun 2024</div>
+                                <div class="title">Weekly GNU-like Mobile Linux Update (25/2024): A Podcast about Phosh</div>
+                                <div class="date">29 Jun 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1404,13 +1404,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jun 2024, 01:10:04 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jun 2024, 01:09:45 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
