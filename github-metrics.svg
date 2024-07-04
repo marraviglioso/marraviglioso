@@ -342,7 +342,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux's DRM Panic "Screen of Death" Sees Patches for QR Code Error Messages</div>
+                                <div class="title">Linux Looking to Make 5-Level Paging Support Unconditional for x86_64 Builds</div>
                                 <div class="date">4 Jul 2024</div>
                             </div>
                         </div>
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Guide on optimizing Linux kernel with BOLT</div>
-                                <div class="date">3 Jul 2024</div>
+                                <div class="title">Microsoft updates the Linux kernel in WSL after two and a half years</div>
+                                <div class="date">4 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Alpine Linux is a security-oriented, lightweight Linux distribution</div>
-                                <div class="date">3 Jul 2024</div>
+                                <div class="title">Kality: A script to manage Kali Linux packages in Debian systems</div>
+                                <div class="date">4 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Xcapture-BPF – like Linux top, but with Xray vision</div>
-                                <div class="date">3 Jul 2024</div>
+                                <div class="title">Oracle Rolls Out UEK-Next Kernel Based on Linux 6.9</div>
+                                <div class="date">4 Jul 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1431,13 +1431,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jul 2024, 01:10:27 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jul 2024, 01:09:41 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
