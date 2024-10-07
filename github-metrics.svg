@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hacker successfully runs Linux on a CPU from the early 1970s</div>
-                                <div class="date">6 Oct 2024</div>
+                                <div class="title">Who's a Good Boy? A Puppy Linux Mini-Review</div>
+                                <div class="date">7 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux malware "perfctl" behind years-long cryptomining campaign</div>
-                                <div class="date">6 Oct 2024</div>
+                                <div class="title">Modern USB gadget on Linux and how to integrate it with systemd (Part 1) (2019)</div>
+                                <div class="date">7 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux Music Players (2023)</div>
-                                <div class="date">6 Oct 2024</div>
+                                <div class="title">Linus Torvalds Asks Kernel Developers to Write Better Git Merge Commit Messages</div>
+                                <div class="date">7 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hey guys, I'm switching to this amazing Linux distro called waydroid_Linux</div>
-                                <div class="date">6 Oct 2024</div>
+                                <div class="title">Ptxdist – "Professional Embedded Linux Made Easy"</div>
+                                <div class="date">7 Oct 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1415,12 +1415,19 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Oct 2024, 01:09:52 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2024, 01:10:30 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
