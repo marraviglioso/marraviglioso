@@ -342,7 +342,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gitea: Self-hosted Git service with CI/CD and team collaboration</div>
+                                <div class="title">Improving bindgen for the kernel (Linux)</div>
                                 <div class="date">9 Oct 2024</div>
                             </div>
                         </div>
@@ -351,7 +351,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Visual Studio Code for Linux Remote Code Execution Vulnerability CVE-2024-43601</div>
+                                <div class="title">A website to create Frameless Web Apps on Linux</div>
                                 <div class="date">9 Oct 2024</div>
                             </div>
                         </div>
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tartufo searches through Git repositories for high entropy strings and secrets</div>
-                                <div class="date">8 Oct 2024</div>
+                                <div class="title">magit: A Git Porcelain Inside Emacs</div>
+                                <div class="date">9 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Project using bash scripting that incorporates Linux commands?</div>
-                                <div class="date">8 Oct 2024</div>
+                                <div class="title">Windows runners are consistently slow compared to Linux and macOS</div>
+                                <div class="date">9 Oct 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1426,13 +1426,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Oct 2024, 01:11:15 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Oct 2024, 01:12:04 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
