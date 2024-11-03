@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linus Torvalds Lands 2.6% Performance Improvement with Minor Linux Kernel Patch</div>
-                                <div class="date">2 Nov 2024</div>
+                                <div class="title">Why systemd is a problem for embedded Linux</div>
+                                <div class="date">3 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Steam on Linux Marketshare Hits 2.0% for October, AMD Use Linux Approaches 75%</div>
-                                <div class="date">2 Nov 2024</div>
+                                <div class="title">Once Linux's Biggest Enemy: Darl McBride Dies and Nobody Notices</div>
+                                <div class="date">3 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">EA Drops Linux (and Steam Deck) Support for Apex Legends to Curb Cheating</div>
-                                <div class="date">2 Nov 2024</div>
+                                <div class="title">ToolGit: A collection of scripts that extend Git with various sub-commands</div>
+                                <div class="date">3 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mergiraf – a merge driver for Git that can solve a wide range of merge conflicts</div>
-                                <div class="date">2 Nov 2024</div>
+                                <div class="title">AMD Heterogeneous CPU Design Topology Patches Coming for Linux 6.13</div>
+                                <div class="date">3 Nov 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1409,13 +1409,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Nov 2024, 00:12:06 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2024, 00:12:01 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
