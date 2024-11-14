@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Spotify for Linux</div>
-                                <div class="date">13 Nov 2024</div>
+                                <div class="title">Git push and&amp; get paid</div>
+                                <div class="date">14 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple M4 Mac Mini with macOS vs. Intel / AMD with Ubuntu Linux Performance</div>
-                                <div class="date">13 Nov 2024</div>
+                                <div class="title">Old Vintage Computing Research: Dusting Off Dreamcast Linux</div>
+                                <div class="date">14 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WebVM 2.0: Full Linux Desktop GUI in the Browser</div>
-                                <div class="date">13 Nov 2024</div>
+                                <div class="title">Linux to Allow Disabling TPM PCR Integrity Protection to Performance Bottleneck</div>
+                                <div class="date">14 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WebVM 2.0: Linux Desktop Environment in the Browser via WebAssembly</div>
-                                <div class="date">13 Nov 2024</div>
+                                <div class="title">Upstream Linux Developers Take Aim at TUXEDO's Out-of-Tree GPLv3 Drivers</div>
+                                <div class="date">14 Nov 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1431,13 +1431,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Nov 2024, 00:10:30 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2024, 00:11:23 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
