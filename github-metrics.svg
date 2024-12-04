@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Intel announces Arc B-series "Battlemage" discrete graphics with Linux support</div>
-                                <div class="date">3 Dec 2024</div>
+                                <div class="title">Understanding the file permissions in Android (and Linux)</div>
+                                <div class="date">4 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AMD Per-Core Energy Counter Support Slated for Linux 6.14</div>
-                                <div class="date">3 Dec 2024</div>
+                                <div class="title">ZFS Storage Fault Management on Linux</div>
+                                <div class="date">4 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">eXoDOS Linux Patches</div>
-                                <div class="date">3 Dec 2024</div>
+                                <div class="title">Lutris 0.5.18 Linux Game Manager Brings Many Improvements</div>
+                                <div class="date">4 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Linux Kernel Driver Interface</div>
-                                <div class="date">3 Dec 2024</div>
+                                <div class="title">OpenVPN DCO Looks Like It Might Be Ready for Linux 6.14 Speed-Up VPN Performance</div>
+                                <div class="date">4 Dec 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1426,13 +1426,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Dec 2024, 00:10:57 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2024, 00:11:32 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
