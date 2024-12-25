@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ikey Doherty's Serpent OS Linux Distribution Goes into Alpha</div>
-                                <div class="date">24 Dec 2024</div>
+                                <div class="title">Play any of the old "Carnivores: Dinosaur Hunter" games on Linux using Nix</div>
+                                <div class="date">25 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: Linux on Snapdragon X Laptops?</div>
-                                <div class="date">24 Dec 2024</div>
+                                <div class="title">The Rome Metro Runs on Linux</div>
+                                <div class="date">25 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Rationale for Immutable Desktop Linux (2023)</div>
-                                <div class="date">24 Dec 2024</div>
+                                <div class="title">Linux on a 70s Typewriter – IBM Selectric II → Teletype Conversion [video]</div>
+                                <div class="date">25 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux Text Editors You Should Know About</div>
-                                <div class="date">24 Dec 2024</div>
+                                <div class="title">GNU/Linux Naming Controversy</div>
+                                <div class="date">25 Dec 2024</div>
                             </div>
                         </div>
                     </section>
@@ -1426,13 +1426,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Dec 2024, 00:10:11 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2024, 00:10:15 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
