@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Secureblue: A security-focused desktop and server Linux operating system</div>
-                                <div class="date">9 Feb 2025</div>
+                                <div class="title">Fedora Linux 41 Server on a Motorola moto g play 2024 phone with Termux and QEMU</div>
+                                <div class="date">10 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Git Koans (2013)</div>
-                                <div class="date">9 Feb 2025</div>
+                                <div class="title">Bulifier AI – Git, Code and Run</div>
+                                <div class="date">10 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New Apple Silicon Co-Maintainer Steps Up for the Linux Kernel</div>
-                                <div class="date">9 Feb 2025</div>
+                                <div class="title">Linux kernel tweak could cut data center power usage by up to 30%</div>
+                                <div class="date">10 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux as co-operative Windows process (2017)</div>
-                                <div class="date">9 Feb 2025</div>
+                                <div class="title">Git-Tok</div>
+                                <div class="date">10 Feb 2025</div>
                             </div>
                         </div>
                     </section>
@@ -1415,12 +1415,19 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Feb 2025, 00:10:45 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2025, 00:11:17 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
