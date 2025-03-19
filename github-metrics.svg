@@ -342,8 +342,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WWDC22: Create macOS or Linux virtual machines [video]</div>
-                                <div class="date">18 Mar 2025</div>
+                                <div class="title">Google sheds light on what its new Linux terminal app is for</div>
+                                <div class="date">19 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -351,8 +351,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Asahi Lina quits Linux graphics development</div>
-                                <div class="date">18 Mar 2025</div>
+                                <div class="title">LLM/AI companies DDoS-ing Git forges from open-source communities</div>
+                                <div class="date">19 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -360,8 +360,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: "Git who" – A new CLI tool for industrial-scale Git blaming</div>
-                                <div class="date">18 Mar 2025</div>
+                                <div class="title">Supply Chain Attacks on Linux Distributions – Fedora Pagure</div>
+                                <div class="date">19 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -369,8 +369,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Secureblue: A security-focused desktop and server Linux operating system</div>
-                                <div class="date">18 Mar 2025</div>
+                                <div class="title">Mecha Comet modular Linux handheld gets pre-launch upgrade</div>
+                                <div class="date">19 Mar 2025</div>
                             </div>
                         </div>
                     </section>
@@ -1426,13 +1426,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Mar 2025, 00:10:54 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Mar 2025, 00:12:07 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
