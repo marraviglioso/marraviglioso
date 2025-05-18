@@ -349,7 +349,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux</div>
+                                <div class="title">Linux 6.16 to Support the Realtek RTL8127A 10GbE Ethernet Controller</div>
+                                <div class="date">19 May 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Colima: Container runtimes on macOS (and Linux) with minimal setup</div>
                                 <div class="date">18 May 2025</div>
                             </div>
                         </div>
@@ -358,8 +367,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs</div>
-                                <div class="date">17 May 2025</div>
+                                <div class="title">Backtrace is finally cheap by abusing x86/Linux's shadow stack</div>
+                                <div class="date">18 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -367,17 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Chained VPN routing lab with Linux netns, veth, and iptables</div>
-                                <div class="date">17 May 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Build and Use PostgreSQL 18 (Beta) from Git on Ubuntu Linux 24.04 LTS</div>
-                                <div class="date">17 May 2025</div>
+                                <div class="title">Add Linux Support for Google Play Games</div>
+                                <div class="date">18 May 2025</div>
                             </div>
                         </div>
                     </section>
@@ -1416,13 +1416,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 May 2025, 01:11:14 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 May 2025, 01:11:21 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
