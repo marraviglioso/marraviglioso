@@ -349,7 +349,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ubo app: a step toward unified and open source human machine interface on Linux</div>
+                                <div class="title">Choosing the right Linux file system for your needs – and why ext4 is so popular</div>
                                 <div class="date">5 Jun 2025</div>
                             </div>
                         </div>
@@ -358,8 +358,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Workflows for getting Nvidia drivers working on Linux</div>
-                                <div class="date">4 Jun 2025</div>
+                                <div class="title">Poll: Which Linux distro do you use for personal computing?</div>
+                                <div class="date">5 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -367,8 +367,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux Emulation in FreeBSD</div>
-                                <div class="date">4 Jun 2025</div>
+                                <div class="title">AMD Radeon 8050S "Strix Halo" Linux Graphics Performance Review</div>
+                                <div class="date">5 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -376,8 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux 6.16 Exposes Statistics for NUMA Task Migration and Swapping</div>
-                                <div class="date">4 Jun 2025</div>
+                                <div class="title">Marking 21 Years of Covering Linux Hardware</div>
+                                <div class="date">5 Jun 2025</div>
                             </div>
                         </div>
                     </section>
@@ -1438,13 +1438,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jun 2025, 01:12:02 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jun 2025, 01:13:21 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
