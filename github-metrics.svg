@@ -349,7 +349,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux Foundation says yes to NoSQL via DocumentDB</div>
+                                <div class="title">Initrd Support Could Be on Its Way to Being Removed from Linux Kernel</div>
                                 <div class="date">26 Aug 2025</div>
                             </div>
                         </div>
@@ -358,8 +358,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Arch Linux remains under attack as DDoS enters week 2 – here's a workaround</div>
-                                <div class="date">25 Aug 2025</div>
+                                <div class="title">Organizations Warned of Exploited Git Vulnerability</div>
+                                <div class="date">26 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -367,8 +367,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vicinae is a high-performance, native launcher for Linux – built with C++ and Qt</div>
-                                <div class="date">25 Aug 2025</div>
+                                <div class="title">EventSourcingDB – Git for your data, with time travel and AI-ready history</div>
+                                <div class="date">26 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -376,8 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I built a tool that converts Git commits into a full Changelog</div>
-                                <div class="date">25 Aug 2025</div>
+                                <div class="title">Show HN: Sip: Alternative to Git Clone</div>
+                                <div class="date">26 Aug 2025</div>
                             </div>
                         </div>
                     </section>
@@ -1428,13 +1428,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Aug 2025, 01:11:36 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2025, 01:10:49 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
