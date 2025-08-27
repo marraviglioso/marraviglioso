@@ -349,8 +349,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Initrd Support Could Be on Its Way to Being Removed from Linux Kernel</div>
-                                <div class="date">26 Aug 2025</div>
+                                <div class="title">Asahi Linux Lead Developer Steps Down</div>
+                                <div class="date">28 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -358,8 +358,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Organizations Warned of Exploited Git Vulnerability</div>
-                                <div class="date">26 Aug 2025</div>
+                                <div class="title">Linux and Secure Boot certificate expiration</div>
+                                <div class="date">27 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -367,8 +367,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">EventSourcingDB – Git for your data, with time travel and AI-ready history</div>
-                                <div class="date">26 Aug 2025</div>
+                                <div class="title">Show HN: PR-desc your AI Git and GitHub workflow assistant</div>
+                                <div class="date">27 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -376,8 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Sip: Alternative to Git Clone</div>
-                                <div class="date">26 Aug 2025</div>
+                                <div class="title">Linux Foundation's updated inclusive language guide</div>
+                                <div class="date">27 Aug 2025</div>
                             </div>
                         </div>
                     </section>
@@ -1433,13 +1433,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Aug 2025, 01:10:49 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Aug 2025, 01:11:21 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
