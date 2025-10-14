@@ -349,8 +349,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LMDE 7 "Gigi" (Linux Mint Debian Edition)</div>
-                                <div class="date">13 Oct 2025</div>
+                                <div class="title">Secure Boot bypass risk threatens nearly 200k Linux Framework laptops</div>
+                                <div class="date">14 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -358,8 +358,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Modern Linux tools</div>
-                                <div class="date">13 Oct 2025</div>
+                                <div class="title">Show HN: Just Enough Linux for Indie Hackers</div>
+                                <div class="date">14 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -367,8 +367,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MPTCP for Linux</div>
-                                <div class="date">13 Oct 2025</div>
+                                <div class="title">Bypassing CAPTCHAs from ARM64 Linux GitHub Actions jobs to collect Copilot data [video]</div>
+                                <div class="date">14 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -376,8 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bellcore ManaGeR: running an obscure window system on vintage Linux</div>
-                                <div class="date">13 Oct 2025</div>
+                                <div class="title">Show HN: Mylinux: a minimalist Linux disro by a 13 year old</div>
+                                <div class="date">14 Oct 2025</div>
                             </div>
                         </div>
                     </section>
@@ -1428,13 +1428,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Oct 2025, 01:11:02 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2025, 01:11:06 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
