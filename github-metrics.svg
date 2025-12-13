@@ -349,8 +349,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Wine 11.0 RC2 – Run Windows Applications on Linux, BSD, Solaris and macOS</div>
-                                <div class="date">12 Dec 2025</div>
+                                <div class="title">Linux Sandboxes and Fil-C</div>
+                                <div class="date">13 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -358,8 +358,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux 6.19 Lands X2AVIC Patches for AMD SVM Handling Up to 4096 VCPUs</div>
-                                <div class="date">12 Dec 2025</div>
+                                <div class="title">Linux System Calls</div>
+                                <div class="date">13 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -367,8 +367,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Git-scope – Fast TUI for viewing Git status across many repos</div>
-                                <div class="date">12 Dec 2025</div>
+                                <div class="title">Ask HN: What's your workflow for handling many Git repos locally?</div>
+                                <div class="date">13 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -376,8 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Anthropic donated MCP to the Linux Foundation. What does that mean?</div>
-                                <div class="date">12 Dec 2025</div>
+                                <div class="title">Show HN: WineBar: A yet another Wine prefix manager, with Asahi Linux support</div>
+                                <div class="date">13 Dec 2025</div>
                             </div>
                         </div>
                     </section>
@@ -1411,13 +1411,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Dec 2025, 00:13:16 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2025, 00:11:47 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
