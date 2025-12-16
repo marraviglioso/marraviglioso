@@ -349,8 +349,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Think Different: Asahi Linux on an M2 MacBook Pro</div>
-                                <div class="date">15 Dec 2025</div>
+                                <div class="title">2025 Maintainers Summit reviews the Linux kernel development process</div>
+                                <div class="date">16 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -358,8 +358,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fizzy Design Evolution: A Flipbook from Git</div>
-                                <div class="date">15 Dec 2025</div>
+                                <div class="title">Show HN: Deterministic PCIe Diagnostics for GPUs on Linux</div>
+                                <div class="date">16 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -367,8 +367,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Problems with D-Bus on the Linux desktop</div>
-                                <div class="date">15 Dec 2025</div>
+                                <div class="title">Chicago95: Windows 95 for Linux</div>
+                                <div class="date">16 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -376,8 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Git in 30 Minutes: A Beginner's Guide for Technical Writers</div>
-                                <div class="date">15 Dec 2025</div>
+                                <div class="title">Linux computer with 843 components designed by AI boots on first attempt</div>
+                                <div class="date">16 Dec 2025</div>
                             </div>
                         </div>
                     </section>
@@ -1428,13 +1428,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Dec 2025, 00:13:27 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2025, 00:12:26 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
