@@ -349,8 +349,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI-powered reverse-engineering of Rosetta 2 (for Linux VM)</div>
-                                <div class="date">23 Feb 2026</div>
+                                <div class="title">Screen Power Saving in the Linux Console</div>
+                                <div class="date">24 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -358,8 +358,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Torvalds: Someone who isn't afraid of numbers past teens will take over Linux</div>
-                                <div class="date">23 Feb 2026</div>
+                                <div class="title">Gitzy is now on TestFlight A modern, native iOS Git client</div>
+                                <div class="date">24 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -367,8 +367,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenClaw overtakes Linux in GitHub popularity contest</div>
-                                <div class="date">23 Feb 2026</div>
+                                <div class="title">Personal productivity built on classic GTD and BuJo, Claude Code, MD files, Git</div>
+                                <div class="date">24 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -376,8 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Blucast – An Nvidia Broadcast Alternative for Linux</div>
-                                <div class="date">23 Feb 2026</div>
+                                <div class="title">The React Foundation: A New Home for React Hosted by the Linux Foundation</div>
+                                <div class="date">24 Feb 2026</div>
                             </div>
                         </div>
                     </section>
@@ -1428,13 +1428,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Feb 2026, 00:27:51 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Feb 2026, 00:23:19 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
