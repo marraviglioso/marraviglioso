@@ -349,8 +349,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple's Rosetta 2 for Linux VM hides the CPU and kernel arch info</div>
-                                <div class="date">28 Feb 2026</div>
+                                <div class="title">TPM-Sniffing LUKS Keys on an Embedded Linux Device [CVE-2026-0714]</div>
+                                <div class="date">1 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -358,8 +358,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mquire: Linux memory forensics without external dependencies</div>
-                                <div class="date">28 Feb 2026</div>
+                                <div class="title">Greasing Linux Auth: Hardware-Backed Authentication with PAM+TPM2</div>
+                                <div class="date">1 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -367,8 +367,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Fava Trails – Git-backed memory for AI agents using Jujutsu (JJ)</div>
-                                <div class="date">28 Feb 2026</div>
+                                <div class="title">Don't blame System76 because California wants to ruin Linux [video]</div>
+                                <div class="date">1 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -376,8 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sandboxed Git worktrees for AI coding agents</div>
-                                <div class="date">28 Feb 2026</div>
+                                <div class="title">California introduces age verification law for OS, including Linux and SteamOS</div>
+                                <div class="date">1 Mar 2026</div>
                             </div>
                         </div>
                     </section>
@@ -1416,13 +1416,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Mar 2026, 00:14:31 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Mar 2026, 00:15:29 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
