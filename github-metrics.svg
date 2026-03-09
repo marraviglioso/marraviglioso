@@ -349,8 +349,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linux Internals: How /proc/self/mem writes to unwritable memory (2021)</div>
-                                <div class="date">8 Mar 2026</div>
+                                <div class="title">Show HN: Git Trophy – 3D print your GitHub contribution graph</div>
+                                <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -358,8 +358,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FastFlowLM Docker – Run LLMs on AMD Ryzen AI NPU (Linux)</div>
-                                <div class="date">8 Mar 2026</div>
+                                <div class="title">Show HN: Git Worktrees Simplified</div>
+                                <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -367,8 +367,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Linux Kernel Will Soon Be MIT-Licensed and Copyleft Will Be Dead</div>
-                                <div class="date">8 Mar 2026</div>
+                                <div class="title">Coasts: Localhost service isolation and orchestration for Git worktrees</div>
+                                <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -376,8 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Linux Kernel Will Soon Be MIT-Licensed and Copyleft Will Be Dead</div>
-                                <div class="date">8 Mar 2026</div>
+                                <div class="title">Show HN: ChopChopGo – Sigma-based threat hunting for Linux forensic artifacts</div>
+                                <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
                     </section>
@@ -1422,12 +1422,19 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Mar 2026, 00:15:53 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Mar 2026, 00:19:45 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
