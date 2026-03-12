@@ -349,8 +349,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We Built a Linux Kernel Mailing List Front End</div>
-                                <div class="date">11 Mar 2026</div>
+                                <div class="title">Show HN: Codelegate, keyboard-driven coding agent orchestrator GUI for Mac/Linux</div>
+                                <div class="date">12 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -358,8 +358,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">California's Digital Age Assurance Act and Linux Distributions</div>
-                                <div class="date">11 Mar 2026</div>
+                                <div class="title">Bringing Chrome to ARM64 Linux Devices</div>
+                                <div class="date">12 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -367,8 +367,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I stopped using NixOS and went back to Arch Linux</div>
-                                <div class="date">11 Mar 2026</div>
+                                <div class="title">Ask HN: Developing .NET on Windows but deploying to Linux – common issues?</div>
+                                <div class="date">12 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -376,8 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Trying Linux Desktop yet Again with More Success</div>
-                                <div class="date">11 Mar 2026</div>
+                                <div class="title">A small CLI for stopping Git worktrees from fighting over ports</div>
+                                <div class="date">12 Mar 2026</div>
                             </div>
                         </div>
                     </section>
@@ -1438,13 +1438,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Mar 2026, 00:18:06 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2026, 00:20:13 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
