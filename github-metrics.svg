@@ -349,8 +349,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Stop your agent running Terraform destroy or Git push origin main</div>
-                                <div class="date">31 Mar 2026</div>
+                                <div class="title">The Windows equivalents of the most used Linux commands</div>
+                                <div class="date">2 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -358,8 +358,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Git history is not a reliable record of work. I tried to make it one</div>
-                                <div class="date">31 Mar 2026</div>
+                                <div class="title">Gcannon – C io_uring HTTP/1.1 and WebSocket load generator for Linux</div>
+                                <div class="date">1 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -367,8 +367,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The day my AI editor went silent: Debugging Git worktrees, and lost weights</div>
-                                <div class="date">31 Mar 2026</div>
+                                <div class="title">ReactOS to reverse engineer Linux Kernel A.I. Pull Requests, helping Linux-Libre</div>
+                                <div class="date">1 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -376,8 +376,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What changes when you turn a Linux box into a router</div>
-                                <div class="date">31 Mar 2026</div>
+                                <div class="title">Federated and Independent [Plugin] Repositories in WordPress (Linux Foundation)</div>
+                                <div class="date">1 Apr 2026</div>
                             </div>
                         </div>
                     </section>
@@ -1433,13 +1433,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Apr 2026, 01:26:36 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Apr 2026, 01:29:26 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
